@@ -2,7 +2,8 @@
 
 These rules are provided freely to the community without warranty.
 
-In this GitHub repository you will find rules in multiple languages:
+In this Software repository you will find rules in multiple languages:
+<sb> Are these languages? Which formats and standards?
 - Snort
 - Yara
 - IOC
@@ -21,4 +22,4 @@ The entire risk as to quality and performance of these rules is with the users.
 Please review the FireEye blog for additional details on this threat. 
 
 Please note: COSMICGALE and SUPERNOVA signatures and indicators are confirmed to detect malicious files and activity, however they have not been directly associated with the current UNC2452 Solarwinds compromise.
-
+<sb> Seems SuperNova became Sunburst, so with ASCI.
